@@ -1,0 +1,9 @@
+﻿cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  stdafx.cpp
+cl : command line warning D9035: option 'Gm' has been deprecated and will be removed in a future release
+  MergeBookmarks.cpp
+  BookmarkFile.cpp
+  Bookmark.cpp
+  Generating Code...
+Bookmark.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  MergeBookmarks.vcxproj -> C:\projects\MergeBookmarks\Debug\MergeBookmarks.exe
